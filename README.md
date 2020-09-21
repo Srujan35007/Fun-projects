@@ -15,3 +15,4 @@ ___
 - Code: [picture_to_equation.py](./picture_to_equation.py)
 
 ![picture to mathematical equation](./images/curve_fit.png)
+![Example output of the curve fit equation](./images/curve_fit2.png)
