@@ -16,3 +16,7 @@ ___
 
 ![picture to mathematical equation](./images/curve_fit.png)
 ![Example output of the curve fit equation](./images/curve_fit2.png)
+
+## 3.Resize images to adjust memory contraints <br>
+- Mostly usable when you want to upload your profile pic or some other pic but the website keeps a memory constraint for the upload.
+- Code: [resize_image.py](./resize_image.py)
