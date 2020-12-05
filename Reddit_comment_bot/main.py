@@ -33,8 +33,8 @@ print(net)
 
 session = praw.Reddit(
     user_agent = "Session Test 1",
-    client_id = "6eZPePjCvFgeEg",
-    client_secret = "arzr_tEU4UcgmCih_WKgtuEH_JEAfg",
+    client_id = "CLIENT_ID",
+    client_secret = "CLIENT_SECRET",
     username = 'sjn_test_bot_1'
 )
 
