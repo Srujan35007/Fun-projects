@@ -20,3 +20,12 @@ ___
 ## 3.Resize images to adjust memory contraints <br>
 - Mostly usable when you want to upload your profile pic or some other pic but the website keeps a memory constraint for the upload.
 - Code: [resize_image.py](./resize_image.py)
+
+## 4. Double the FPS of any video <br>
+- Averages two adjacent frames and creates and intraframe to double the FPS of a video.
+- Cannot enocode Audio.
+- Code: [double fps](double_fps.py)
+
+## 5. Scrape a website to get all the IP address ranges of all countries.
+- Scraped from [Website](https://lite.ip2location.com/ip-address-ranges-by-country)
+- Code: [scrape for ips](./scrape_for_ips.py)
