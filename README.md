@@ -26,7 +26,7 @@ ___
 - Cannot enocode Audio.
 - Code: [4_double_fps.py](./4_double_fps.py)
 
-## 5. Scrape a website to get all the IP address ranges of all countries.
+## 5. Scrape a website to get all the IP address ranges of all countries. <br>
 - Scraped from [Website](https://lite.ip2location.com/ip-address-ranges-by-country)
 - Code: [5_scrape_for_ips.py](./5_scrape_for_ips.py)
 
@@ -34,7 +34,11 @@ ___
 - [Inscribing a polygon in a circle method - Archimedes method](./6_1_pi_sin.py)
 - [From a random number generator](./6_2_pi_random_circle.py)
 
-## 7. Get number of redditors online in a partucular subreddit
+## 7. Get number of redditors online in a partucular subreddit. <br>
 - Gets the number of redditors online for every 5 minutes.
 - Plotting number of people online vs time of the day.
 - Code: [7_subreddit_online_metrics.py](./7_subreddit_online_metrics.py)
+
+## 8. Get Prime numbers. <br>
+- Code: [8_get_primes.py](./get_primes.py)
+
