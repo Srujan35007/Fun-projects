@@ -42,3 +42,6 @@ ___
 ## 8. Get Prime numbers. <br>
 - Code: [8_get_primes.py](./get_primes.py)
 
+## 9. Make a stylized potrait. <br>
+- Uses opencv to make a stylized potrait.
+- Code: [9_stylized_potrait.py](./9_stylized_potrait.py)
